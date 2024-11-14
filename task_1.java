@@ -17,7 +17,6 @@ public class task_1 {
         
         if (!inputPIN.equals(userPIN)) {
             System.out.println("Incorrect PIN. Access denied.");
-            return;
         }
         
         int choice;
